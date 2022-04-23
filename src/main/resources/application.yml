@@ -1,0 +1,13 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: sonarcube-jacoco-demo
+  datasource:
+    url: jdbc:h2:mem:testdb
+  jpa:
+    show-sql: true
+  h2:
+    console:
+      enabled: true
