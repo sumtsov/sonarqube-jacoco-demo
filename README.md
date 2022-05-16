@@ -1,5 +1,5 @@
 # SonarQube JaCoCo Demo
-Demo project that demonstrates how to measure code coverage and generate a report using SonarQube and JaCoCo
+Sample project that demonstrates how to measure code coverage and generate a report using SonarQube and JaCoCo
 
 ## How to run
 1. Run SonarQube: `docker-compose up`
